@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Tajbiul Rafi</h1>
-<h3 align="center">A passionate CSE student from North South University</h3>
+<h3 align="center">A passionate CSE student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajbiulrafi17&label=Profile%20views&color=0e75b6&style=flat" alt="tajbiulrafi17" /> </p>
 
